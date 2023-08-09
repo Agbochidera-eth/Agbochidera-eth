@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning HTML CSS, JavaScript and react...
 - 💞️ I’m looking to collaborate on building project's as a frontend developer
 - 📫 How to reach me 
+agbochidera21@gmail.com
 
 <!---
 Agbochidera-eth/Agbochidera-eth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
